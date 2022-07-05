@@ -45,3 +45,24 @@ html{
     background-color: #0a2401;
 }
 
+
+@media  (min-width:600px) {
+     .img {
+        height: 125px;
+     }
+     .titulo {
+        font-size: 2rem;
+    }
+    .link {
+       font-size: 2rem;
+       display: inline-block; 
+        margin: 48px;
+        padding: 34px;
+    }
+    .section {
+         padding: 0rem; 
+    }
+    .tree {
+        padding: 0px;
+    }
+ }
